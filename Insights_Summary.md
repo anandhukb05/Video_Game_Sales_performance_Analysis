@@ -6,7 +6,7 @@ This section summarizes the key findings from the analysis with corresponding ch
 
 ### 1. Sales Analysis
 
-#### 🔹 Top 10 Best-Selling Games (Global)
+#### 🔹 Top Best-Selling Games (Region)
 ![Top Selling Games](reports/visuals/top_10_best_selling_games.png)
 
 #### 🔹 Regional Sales Comparison
